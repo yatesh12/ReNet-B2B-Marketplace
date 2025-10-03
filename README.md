@@ -1,5 +1,5 @@
 ### Project Overview
-ReNet B2B Marketplace — a modern, responsive multi-vendor e-commerce frontend built with React, focused on performance, usability, and vendor-first workflows. The UI emphasizes clear product discovery, fast interactions, and a powerful Retailer Vendor Dashboard for vendors to manage catalogs, inventory, and orders.
+ReNet B2B Marketplace: a modern, responsive multi-vendor e-commerce frontend built with React, focused on performance, usability, and vendor-first workflows. The UI emphasizes clear product discovery, fast interactions, and a powerful Retailer Vendor Dashboard for vendors to manage catalogs, inventory, and orders.
 
 ---
 
