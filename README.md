@@ -97,11 +97,6 @@ yarn test
 
 ---
 
-### License and Contact
+### Contact
 - **Maintainer** Yatesh Ahire — GitHub: @yatesh12.  
 - For questions, feature requests, or collaboration ideas, open an issue or submit a PR.
-
----
-
-### README Tip
-Include a short animated demo GIF and screenshots in the repo root, a one-click deploy button for the chosen host, and a concise `CONTRIBUTING.md` to make the project approachable for collaborators.
